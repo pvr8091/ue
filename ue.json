@@ -1,0 +1,57 @@
+[
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "11e8d836540d1552",
+        "key": "key1500",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ea799133a02ae4b0",
+        "key": "key1505",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "45415a5af9aaadc5",
+        "key": "key1234",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "c5c778743b2f2361",
+        "key": "key1501",
+        "expirydate": "23-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d754482f5b890729",
+        "key": "matrix",
+        "expirydate": "23-09-2026",
+        "Allowoffline": false
+    },
+     {
+        "device_id": "823e93646ebae4d6",
+        "key": "key1235",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "544384c1cd481121",
+        "key": "544384c1cd481121",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
+    },
+     
+]

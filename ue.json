@@ -65,6 +65,12 @@
         "expirydate": "03-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "eeebeac21c315048",
+        "key": "eeebeac21c315048",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
     
      
 ]

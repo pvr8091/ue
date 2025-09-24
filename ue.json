@@ -1,76 +1,9 @@
-[
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "11e8d836540d1552",
-        "key": "11e8d836540d1552",
-        "expirydate": "31-12-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ea799133a02ae4b0",
-        "key": "key1505",
-        "expirydate": "13-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "2075f2655b96242a",
-        "key": "2075f2655b96242a",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c5c778743b2f2361",
-        "key": "key1501",
-        "expirydate": "23-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0ac5d15c56788f3a",
-        "key": "matrix",
-        "expirydate": "23-09-2026",
-        "Allowoffline": false
-    },
-     {
-        "device_id": "823e93646ebae4d6",
-        "key": "key1235",
-        "expirydate": "18-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "544384c1cd481121",
-        "key": "544384c1cd481121",
-        "expirydate": "29-09-2025",
-        "Allowoffline": false
-    },
-     {
-        "device_id": "901f155812a47feb",
-        "key": "901f155812a47feb",
-        "expirydate": "03-10-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "eeebeac21c315048",
-        "key": "eeebeac21c315048",
-        "expirydate": "03-10-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0872ea2c46c7aaf0",
-        "key": "0872ea2c46c7aaf0",
-        "expirydate": "10-10-2025",
-        "Allowoffline": false
-    },
-    
-     
-]
+{
+  "showDialog": true,
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://play.google.com/store/apps/details?id=com.cms.epanchayat.mas"
+}

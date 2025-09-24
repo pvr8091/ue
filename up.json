@@ -1,7 +1,7 @@
 {
-  "showDialog": false,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
+  "showDialog": true,
+  "latestVersionCode": 31,
+  "latestVersionName": "3.4",
   "title": "UPDATE AVAILABLE",
   "message": "Get the newest features and improvements.",
   "UpdateButtonText": "DOWNLOAD",

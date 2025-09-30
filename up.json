@@ -1,7 +1,7 @@
 {
   "showDialog": true,
-  "latestVersionCode": 32,
-  "latestVersionName": "3.5",
+  "latestVersionCode": 33,
+  "latestVersionName": "3.6",
   "title": "UPDATE AVAILABLE",
   "message": "Tap on download button",
   "UpdateButtonText": "DOWNLOAD",
